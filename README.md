@@ -43,7 +43,9 @@ The header section should contain a nav with three links:
 Exercise #2
 -----------
 
-Reproduce the layout of the page represented in [this screenshot](...).
+Reproduce the layout of the page represented in [this screenshot](https://raw.githubusercontent.com/coUrbanize/Frontend-Code-Test/master/img/layout.png).
+
+![HTML Layout](https://raw.githubusercontent.com/coUrbanize/Frontend-Code-Test/master/img/layout.png)
 
 In the content section of index.html, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
