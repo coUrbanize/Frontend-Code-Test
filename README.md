@@ -1,4 +1,4 @@
-SAY Media Frontend Code Test
+Frontend Code Test
 ==============================
 
 Overview
@@ -14,7 +14,7 @@ Most importantly, have fun!
 
 Getting Started
 ---------------
-To get started you'll fork our project at GitHub found at [https://github.com/thrashr888/Frontend-Code-Test](https://github.com/thrashr888/Frontend-Code-Test "Frontent Code Test Repo at GitHub").
+To get started you'll fork our project at GitHub found at [https://github.com/coUrbanize/Frontend-Code-Test](https://github.com/coUrbanize/Frontend-Code-Test "Frontent Code Test Repo at GitHub").
 
     git clone git@github.com:<your github username here>/Frontend-Code-Test.git
 
@@ -22,7 +22,7 @@ Commit each exercise when you're done with it. For example:
 
     git commit -a -m'Exercise #1'
 
-If git is not available or GitHub is not working for you, you can download the test as a Zip file at [https://github.com/thrashr888/Frontend-Code-Test/zipball/master](https://github.com/thrashr888/Frontend-Code-Test/zipball/master "Download the Frontend Code Test files from GitHub")
+If git is not available or GitHub is not working for you, you can download the test as a Zip file at [https://github.com/coUrbanize/Frontend-Code-Test/zipball/master](https://github.com/coUrbanize/Frontend-Code-Test/zipball/master "Download the Frontend Code Test files from GitHub")
 
 Exercise #1
 -----------
@@ -42,19 +42,12 @@ The header section should contain a nav with three links:
     
 Exercise #2
 -----------
-![HTML Layout](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg "HTML Layout")
 
-You can also see the image files at [https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg](https://img.skitch.com/20120204-rhp7q6h6er1j2dwsm8pf3yd4pa.jpg) or [http://d.pr/49xE](http://d.pr/49xE).
+Reproduce the layout of the page represented in [this screenshot](...).
 
 In the content section of index.html, rebuild this design in HTML5 and CSS3. You don't need to perfectly match exact pixel sizes, fonts, or colors for this exercise but it should look as similar as possible. You can also use lorem-ipsum or placeholder text.
 
-The image for the comment count can be found in the img folder ([and in this GitHub repo](https://raw.github.com/thrashr888/Frontend-Code-Test/master/img/icon-comment-gry.png) ![comment](https://raw.github.com/thrashr888/Frontend-Code-Test/master/img/icon-comment-gry.png)). You can use placekitten.com for the larger images (e.g. `<img src="http://placekitten.com/140/120" />`).
-
-The sample text:
-
-    The clever staff at NextMovie realized that it's a dog's world, and have recast the nine Academy Awards Best Picture nominiees with dogs as the top award winners at the Academy Awards where the dogs are considered...
-    
-    A man walking his two lap dogs off-leash in an area that had been off-leash for years until December ended up at the wrong end...
+You can use placekitten.com for placeholders for the images (e.g. `<img src="http://placekitten.com/140/120" />`).
 
 Exercise #3
 -----------
@@ -69,3 +62,10 @@ Finish Up
 Send us a link to your fork in GitHub and you're all done!
 
 **If you originally downloaded the files** instead, please send us a zip or tarball of your project.
+
+Credits
+-------
+
+Original code test originally entitled "SAY Media Frontend Code Test", with broken assets for HTML layout, etc.
+
+Original repo: [thrashr888/Frontend-Code-Test](https://github.com/thrashr888/Frontend-Code-Test)
